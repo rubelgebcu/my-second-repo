@@ -9,7 +9,7 @@ h3{
 }
 ul li a {
     text-decoration: none;
-    text-align: left;
+    
     
 }
 ul li {
@@ -22,4 +22,7 @@ ul li {
 ul{
     display: flex;
     
+    float: inline-end;
+.nav{
+    margin-left: 300px;
 }
